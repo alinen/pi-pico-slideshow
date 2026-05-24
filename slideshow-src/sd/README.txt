@@ -1,0 +1,1 @@
+Empty directory is needed for the mount point for the SD card

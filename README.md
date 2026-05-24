@@ -1,6 +1,12 @@
 # pi-pico-slideshow
 Simple slideshow application for the Pi Pico based on CircuitPython
 
+
+
+https://github.com/user-attachments/assets/937b5b2e-64e5-4905-996e-f91ca67e6325
+
+
+
 ## How to build and run
 
 This project is based on the [Iffy Books Pixel Buddy Video Player](https://iffybooks.net/pixel-buddy/).
